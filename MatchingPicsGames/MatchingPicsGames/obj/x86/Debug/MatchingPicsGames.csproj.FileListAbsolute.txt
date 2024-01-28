@@ -1,0 +1,42 @@
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.pdb
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.GenerateResource.Cache
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.exe
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.pdb
+C:\Users\User\Downloads\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.exe
+C:\Users\User\Downloads\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.pdb
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe.config
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.pdb
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.AssemblyReference.cache
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.SuggestedBindingRedirects.cache
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.GenerateResource.cache
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.CoreCompileInputs.cache
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.exe
+D:\viki\projects\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.pdb
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe.config
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.pdb
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.AssemblyReference.cache
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.SuggestedBindingRedirects.cache
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.GenerateResource.cache
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.CoreCompileInputs.cache
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.exe
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.pdb
+D:\viki\school\game jam\repo\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.osnovanie.resources
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe.config
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.exe
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\bin\Debug\MatchingPicsGames.pdb
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.AssemblyReference.cache
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.SuggestedBindingRedirects.cache
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.osnovanie.resources
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.GenerateResource.cache
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.csproj.CoreCompileInputs.cache
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.exe
+D:\viki\school\game jam\repo\Test_for_Gabrovec\MatchingPicsGames\MatchingPicsGames\obj\x86\Debug\MatchingPicsGames.pdb

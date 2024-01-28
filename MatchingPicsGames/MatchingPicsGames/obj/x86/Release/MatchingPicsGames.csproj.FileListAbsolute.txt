@@ -1,0 +1,7 @@
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\bin\Release\MatchingPicsGames.exe
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\bin\Release\MatchingPicsGames.pdb
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Release\MatchingPicsGames.csproj.GenerateResource.Cache
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Release\MatchingPicsGames.exe
+E:\Viktoria 10v\MatchingPicsGames\MatchingPicsGames\obj\x86\Release\MatchingPicsGames.pdb
