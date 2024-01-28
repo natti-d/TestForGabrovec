@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.denqt_se_poznava_ot_sutrinta.resources
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.badge_collection.resources
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\bin\Debug\test_za_gabrovci.exe.config
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\bin\Debug\test_za_gabrovci.exe
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\bin\Debug\test_za_gabrovci.pdb
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.Properties.Resources.resources
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.exe
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.pdb
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.toi_plashta.resources
