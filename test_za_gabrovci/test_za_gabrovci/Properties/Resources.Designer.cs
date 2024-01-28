@@ -203,6 +203,26 @@ namespace test_za_gabrovci.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap osnovanie_BW {
+            get {
+                object obj = ResourceManager.GetObject("osnovanie_BW", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap osnovanie_colored {
+            get {
+                object obj = ResourceManager.GetObject("osnovanie_colored", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap red_btn {
             get {
                 object obj = ResourceManager.GetObject("red_btn", resourceCulture);

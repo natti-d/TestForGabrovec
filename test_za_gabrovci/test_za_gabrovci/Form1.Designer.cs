@@ -111,10 +111,12 @@
             // 
             // game4
             // 
-            this.game4.BackColor = System.Drawing.Color.White;
-            this.game4.Location = new System.Drawing.Point(141, 305);
+            this.game4.BackColor = System.Drawing.Color.Transparent;
+            this.game4.Image = global::test_za_gabrovci.Properties.Resources.osnovanie_BW;
+            this.game4.Location = new System.Drawing.Point(104, 305);
             this.game4.Name = "game4";
-            this.game4.Size = new System.Drawing.Size(211, 211);
+            this.game4.Size = new System.Drawing.Size(264, 211);
+            this.game4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.game4.TabIndex = 7;
             this.game4.TabStop = false;
             // 

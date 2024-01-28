@@ -10,3 +10,4 @@ C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug
 C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.exe
 C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.pdb
 C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.toi_plashta.resources
+C:\Users\HP\Desktop\nat\gamejam\repo\test_za_gabrovci\test_za_gabrovci\obj\Debug\test_za_gabrovci.Help.resources

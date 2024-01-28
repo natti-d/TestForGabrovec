@@ -152,5 +152,11 @@
   <ItemGroup>
     <None Include="Resources\blackcat2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\osnovanie_colored.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\osnovanie_BW.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

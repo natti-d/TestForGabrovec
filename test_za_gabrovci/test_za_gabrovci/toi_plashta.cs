@@ -32,7 +32,7 @@ namespace test_za_gabrovci
             Random crazy_time = new Random();
             crazy_time_lbl.Text = "00:" + crazy_time.Next(0, 100).ToString();
             menuTime++;
-            if (menuTime > 20)
+            if (menuTime > 30)
             {
                 menu_timer.Dispose();
                 crazy_time_lbl.Text = "00:00";
@@ -342,12 +342,21 @@ namespace test_za_gabrovci
 
         private void info_box_Click(object sender, EventArgs e)
         {
+            menu_timer.Stop();
             DialogResult dialogResult = MessageBox.Show("Трима приятели влезли в една гостилница. Докато двамата отишли до тоалетната, третият, който бил габровец, взел листа с менюто и набързо задраскал по-скъпите гозби. А притичалия се съдържател успокоил:\r\n— Нали аз плащам яденето…\r\n Желаете ли инструкция за играта? При натискане на No, таймерът и играта започват! Успех!", "Той плаща",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Information);
 
             if (dialogResult == DialogResult.Yes)
             {
-                MessageBox.Show("Прочетете традиционното габровксо меню и като типични габровци, задраскайте трите най-скъпи ястия! Но побързайте! Имате само 20 секунди да спестите някой лев и спечелите своя бадж, преди приятелите ви да се върнат на масата!\r\rЗадраскването на цените се случва чрез натискане на самата цена!", "Информация за игра", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                DialogResult dialogResultInstruct = MessageBox.Show("Прочетете традиционното габровксо меню и като типични габровци, задраскайте трите най-скъпи ястия! Но побързайте! Имате само 20 секунди да спестите някой лев и спечелите своя бадж, преди приятелите ви да се върнат на масата!\r\rЗадраскването на цените се случва чрез натискане на самата цена!", "Информация за игра", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                if(dialogResultInstruct == DialogResult.OK)
+                {
+                    menu_timer.Start(); 
+                }
+            }
+            else
+            {
+                menu_timer.Start();
             }
         }
     }

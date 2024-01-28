@@ -127,8 +127,8 @@
   <data name="help_btn_img1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\help_btn_img1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="game3_BW" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\game3_BW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="blackcat1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blackcat1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="help_btn_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\help_btn_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,28 +139,34 @@
   <data name="game2_BW" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\game2_BW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="osnovanie_colored" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\osnovanie_colored.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="game1_BW" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\game1_BW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="info" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="blackcat2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blackcat2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="gevrek" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gevrek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="red_btn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\red_btn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="blackcat1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blackcat1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="game1_colored" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\game1_colored.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="game3_BW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\game3_BW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="blackcat2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blackcat2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="osnovanie_BW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\osnovanie_BW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

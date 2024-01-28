@@ -117,7 +117,15 @@ namespace test_za_gabrovci
 
             if (dialogResult == DialogResult.Yes)
             {
-                MessageBox.Show("Купете, колкото се може повече гевречета с дупки за 30 секунди и спечелете своя бадж!\r\nКупуването на гевречетата се случва чрез натискане на големия червен бутон в долния десен ъгъл! При всяко натискане на бутона, вие закупувате един геврек!", "Информация за игра", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                DialogResult dialogResultInstruct = MessageBox.Show("Купете, колкото се може повече гевречета с дупки за 30 секунди и спечелете своя бадж!\r\nКупуването на гевречетата се случва чрез натискане на големия червен бутон в долния десен ъгъл! При всяко натискане на бутона, вие закупувате един геврек!", "Информация за игра", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                if(dialogResultInstruct == DialogResult.OK)
+                {
+                    gevrek_timer.Start();
+                }
+            }
+            else
+            {
+                gevrek_timer.Start();
             }
         }
     }
